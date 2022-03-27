@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "name": "ng-phone-validator",
+  "version": "0.0.1",
+  "description": "Nigerian phone number validator using regex",
+  "main": "index.js",
+  "repository": "https://github.com/Tenotea/ng-phone-validator.git",
+  "author": "tenotea",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  }
+}
